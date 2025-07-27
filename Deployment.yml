@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: chain-deployment
-        image: aadityasirsam/chain-tracker
+        image: pradiplabade/chain-tracker
         ports:
         - containerPort: 8000
